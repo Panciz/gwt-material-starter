@@ -1,2 +1,5 @@
 target/*
 gwt-material-starter.iml
+/target/
+/.project
+/.classpath
